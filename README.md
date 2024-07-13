@@ -8,6 +8,8 @@
 
 ✨ "Data is the new oil, and I'm here to refine it."  
 
+To know more about me click 👇
+
 <a href="https://www.linkedin.com/in/roy-jaime-torres-6a3197a1/" target="_blank">
     <img src="https://i.imgur.com/kF9HMpz.png" alt="LinkedIn" width="40" height="40"/>
 </a>
