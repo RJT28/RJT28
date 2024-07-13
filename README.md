@@ -1,4 +1,4 @@
-## Hi there, I'm Roy Torres 👋
+## Hi there, I'm Roy 👋
 
 🛠️ Business Graduate | Data Researcher  
 
