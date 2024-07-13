@@ -5,6 +5,6 @@
 📚 Constantly learning and exploring new technologies to sharpen my skills in the ever-evolving data field.
 ✨ "Data is the new oil, and I'm here to refine it."
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVwMHpwdzRqdWJybjZsOTFxYm45cjlrNm9jMXk4NTRsbWNxOTNiMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif
+![Data GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVwMHpwdzRqdWJybjZsOTFxYm45cjlrNm9jMXk4NTRsbWNxOTNiMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif)
 
 
