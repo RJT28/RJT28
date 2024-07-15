@@ -26,12 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RJT28&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RJT28&layout=compact&theme=radical)
-
----
-
 ## 🔗 Connect with Me
 [![LinkedIn](https://media4.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif?cid=6c09b9528e5snhmor372v543eqpdtq4vr63udtvl7m1kh21n&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)](https://www.linkedin.com/in/roy-jaime-torres-6a3197a1/)
 
