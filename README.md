@@ -1,12 +1,12 @@
-## Hi there, I'm Roy 👋
+# Hi there, I'm Roy 👋
 
-🛠️ Business Graduate | Data Researcher  
+## 🛠️ Business Graduate | Data Researcher
 
-🚀 I'm all about solving complex problems with data-driven solutions and finding innovative ways to use data.  
+- 🚀 I'm all about solving complex problems with data-driven solutions and finding innovative ways to use data.
+- 🔧 Constantly learning and exploring new technologies to sharpen my skills in the ever-evolving data field.
+- 💡 "Data is the new oil, and I'm here to refine it."
 
-📚 Constantly learning and exploring new technologies to sharpen my skills in the ever-evolving data field.  
+[![LinkedIn](https://design.canva.ai/2p8e2zbx)](https://design.canva.ai/2p9fzbfc)
 
-✨ "Data is the new oil, and I'm here to refine it."  
+![Banner](https://design.canva.ai/2p87a2k7)
 
-
-![Data GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVwMHpwdzRqdWJybjZsOTFxYm45cjlrNm9jMXk4NTRsbWNxOTNiMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif)
