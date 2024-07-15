@@ -8,10 +8,7 @@
 
 ✨ "Data is the new oil, and I'm here to refine it."  
 
-<a href="https://www.linkedin.com/in/roy-jaime-torres-6a3197a1/" target="_blank">
-    <img src="https://i.imgur.com/kF9HMpz.png" alt="LinkedIn" width="40" height="40"/>
-</a>
-
+[![LinkedIn](https://design.canva.ai/2p8e2zbx)](https://design.canva.ai/2p9fzbfc)
 
 
 ![Data GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVwMHpwdzRqdWJybjZsOTFxYm45cjlrNm9jMXk4NTRsbWNxOTNiMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif)
