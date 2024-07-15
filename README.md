@@ -8,7 +8,5 @@
 
 ✨ "Data is the new oil, and I'm here to refine it."  
 
-[![LinkedIn](https://design.canva.ai/2p8e2zbx)](https://design.canva.ai/2p9fzbfc)
-
 
 ![Data GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVwMHpwdzRqdWJybjZsOTFxYm45cjlrNm9jMXk4NTRsbWNxOTNiMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif)
