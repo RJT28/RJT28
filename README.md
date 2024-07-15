@@ -35,4 +35,4 @@
 ## 🔗 Connect with Me
 [![LinkedIn](https://media4.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif?cid=6c09b9528e5snhmor372v543eqpdtq4vr63udtvl7m1kh21n&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)](https://www.linkedin.com/in/roy-jaime-torres-6a3197a1/)
 
-![Cat working on a laptop](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Data GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVwMHpwdzRqdWJybjZsOTFxYm45cjlrNm9jMXk4NTRsbWNxOTNiMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif)
