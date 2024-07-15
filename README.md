@@ -18,12 +18,18 @@
 ---
 
 ## 📌 Pinned Repositories
-- [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-name&theme=dark)](https://github.com/RJT28/PostgreSQL-data-cleaning-manipulation)
-- [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-name&theme=dark)](https://github.com/RJT28/ETL---pokemon-database)
+- [![PostgreSQL Data Cleaning & Manipulation](https://github-readme-stats.vercel.app/api/pin/?username=RJT28&repo=PostgreSQL-data-cleaning-manipulation&theme=dark)](https://github.com/RJT28/PostgreSQL-data-cleaning-manipulation)
+- [![ETL - Pokémon Database](https://github-readme-stats.vercel.app/api/pin/?username=RJT28&repo=ETL---pokemon-database&theme=dark)](https://github.com/RJT28/ETL---pokemon-database)
+
+---
+
+## 📊 GitHub Stats
+![Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RJT28&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RJT28&layout=compact&theme=radical)
 
 ---
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://design.canva.ai/2p8e2zbx)](https://www.linkedin.com/in/roy-jaime-torres-6a3197a1/)
 
-![Banner](https://design.canva.ai/2p87a2k7)
+![Cat working on a laptop](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
