@@ -10,10 +10,13 @@
 
 ## 🚀 Skills & Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-FFC107?style=flat-square&logo=google-analytics&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-34A853?style=flat-square&logo=tensorflow&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-34A853?style=flat-square&logo=clean-my-mac&logoColor=white)
+![Data Manipulation](https://img.shields.io/badge/-Data%20Manipulation-FF6F00?style=flat-square&logo=manipulate&logoColor=white)
+![Data Transformation](https://img.shields.io/badge/-Data%20Transformation-6200EA?style=flat-square&logo=transformer&logoColor=white)
 
 ---
 
