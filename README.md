@@ -70,14 +70,6 @@ I'm currently expanding into **data analytics**, building SQL and Python portfol
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RJT28&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="160" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RJT28&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RJT28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
@@ -86,25 +78,28 @@ I'm currently expanding into **data analytics**, building SQL and Python portfol
 
 ## 📌 Projects
 
-<div align="center">
-
-[![PostgreSQL Data Cleaning & Analysis](https://github-readme-stats.vercel.app/api/pin/?username=RJT28&repo=PostgreSQL-data-cleaning-manipulation&theme=tokyonight&hide_border=true)](https://github.com/RJT28/PostgreSQL-data-cleaning-manipulation)
-&nbsp;
-[![ETL - Pokémon Database](https://github-readme-stats.vercel.app/api/pin/?username=RJT28&repo=ETL---pokemon-database&theme=tokyonight&hide_border=true)](https://github.com/RJT28/ETL---pokemon-database)
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗃️ Employee Data Analysis</h3>
+      <p><strong>PostgreSQL</strong></p>
+      <p>End-to-end SQL project covering data cleaning, manipulation, and analysis on an employee dataset. Applies real-world data quality principles from 5+ years of professional financial data experience.</p>
+      <a href="https://github.com/RJT28/PostgreSQL-data-cleaning-manipulation">
+        <img src="https://img.shields.io/badge/View%20Repository-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐍 Pokémon ETL Pipeline</h3>
+      <p><strong>Python</strong></p>
+      <p>A beginner ETL project that extracts Pokémon data from a public API, transforms it into a structured format, and loads it locally. Demonstrates foundational extract-transform-load pipeline logic.</p>
+      <a href="https://github.com/RJT28/ETL---pokemon-database">
+        <img src="https://img.shields.io/badge/View%20Repository-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 > 🔨 More projects coming soon — sales data analysis & financial data exploration (SQL + Python)
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RJT28&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-
-</div>
 
 ---
 
